@@ -13,9 +13,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Andrex-M&label=TARGET+VIEWS&color=FF003C&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Andrex-M?label=FOLLOWERS&style=for-the-badge&logo=github&labelColor=000000&color=FF003C" />
-<img src="https://img.shields.io/github/stars/Andrex-M?label=STARS&style=for-the-badge&logo=github&labelColor=000000&color=FF6A00" />
+<img src="https://komarev.com/ghpvc/?username=andremezabarriga314&label=TARGET+VIEWS&color=FF003C&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/andremezabarriga314?label=FOLLOWERS&style=for-the-badge&logo=github&labelColor=000000&color=FF003C" />
+<img src="https://img.shields.io/github/stars/andremezabarriga314?label=STARS&style=for-the-badge&logo=github&labelColor=000000&color=FF6A00" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF003C,100:000000&height=3&section=header" width="100%"/>
 
@@ -151,20 +151,20 @@ Exploro el diseño tridimensional, la animación y la creación de escenas digit
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=FF003C&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+TELEMETRY" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Andrex-M&show_icons=true&hide_border=true&bg_color=000000&title_color=FF003C&icon_color=FF6A00&text_color=FFFFFF&rank_icon=github&include_all_commits=true&border_color=FF003C" alt="Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrex-M&layout=compact&hide_border=true&bg_color=000000&title_color=FF003C&text_color=FFFFFF&langs_count=10" alt="Top langs"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=andremezabarriga314&show_icons=true&hide_border=true&bg_color=000000&title_color=FF003C&icon_color=FF6A00&text_color=FFFFFF&rank_icon=github&include_all_commits=true&border_color=FF003C" alt="Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andremezabarriga314&layout=compact&hide_border=true&bg_color=000000&title_color=FF003C&text_color=FFFFFF&langs_count=10" alt="Top langs"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrex-M&theme=dark&hide_border=true&background=000000&ring=FF003C&fire=FF6A00&currStreakLabel=FF003C&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="75%" alt="Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andremezabarriga314&theme=dark&hide_border=true&background=000000&ring=FF003C&fire=FF6A00&currStreakLabel=FF003C&currStreakNum=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" width="75%" alt="Streak"/>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Andrex-M&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=andremezabarriga314&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies"/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Andrex-M&bg_color=000000&color=FF003C&line=FF003C&point=FFFFFF&area=true&area_color=FF003C&hide_border=true" width="100%" alt="Activity"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=andremezabarriga314&bg_color=000000&color=FF003C&line=FF003C&point=FFFFFF&area=true&area_color=FF003C&hide_border=true" width="100%" alt="Activity"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF003C,100:000000&height=3&section=header" width="100%"/>
 
@@ -187,13 +187,13 @@ Exploro el diseño tridimensional, la animación y la creación de escenas digit
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1500&color=FF003C&center=true&vCenter=true&width=700&height=50&lines=%2F%2F+CONTACT" />
 
-<a href="https://github.com/Andrex-M">
-  <img src="https://img.shields.io/badge/GITHUB-ANDREX--M-000000?style=for-the-badge&logo=github&logoColor=FF003C&labelColor=FF003C"/>
+<a href="https://github.com/andremezabarriga314">
+  <img src="https://img.shields.io/badge/GITHUB-ANDREMEZABARRIGA314-000000?style=for-the-badge&logo=github&logoColor=FF003C&labelColor=FF003C"/>
 </a>
 <a href="https://linkedin.com/in/andremezabarriga">
   <img src="https://img.shields.io/badge/LINKEDIN-ANDR%C3%89%20MEZA-000000?style=for-the-badge&logo=linkedin&logoColor=FF003C&labelColor=FF003C"/>
 </a>
-<a href="https://github.com/Andrex-M?tab=repositories">
+<a href="https://github.com/andremezabarriga314?tab=repositories">
   <img src="https://img.shields.io/badge/PORTFOLIO-MY%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=FF003C&labelColor=FF003C"/>
 </a>
 
